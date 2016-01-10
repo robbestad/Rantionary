@@ -1,6 +1,6 @@
-#version 2
 #name pron
 #subs acc nom self poss s
+#hidden nsfw
 
 > her/she/herself/her/hers
   | pron h"3`/S"i/h3`-s"Elf/h"3`/h"3`z

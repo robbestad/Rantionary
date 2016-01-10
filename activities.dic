@@ -1,0 +1,16 @@
+#name activity
+#subs default
+#hidden nsfw
+
+#class add game
+  #class add sport
+    > Baseball
+    > Basketball
+    > Football
+    > Golf
+    > Soccer
+    > Tennis
+  #class remove sport
+
+#class remove game
+

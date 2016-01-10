@@ -1,0 +1,86 @@
+#name disease
+#subs name
+#hidden nsfw
+
+#class add infectious
+  #class add viral
+    > chicken pox
+    > ebola
+    > Hepatitis A
+    > Hepatitis B
+    > herpes
+      | class std
+    > influenza
+    > smallpox
+  #class remove viral
+
+  > AIDS
+    | class std
+  > pinkeye
+  > plague
+  > strep throat
+  > strep throat
+    | class bacterial
+  > typhoid fever
+    | class fever
+#class remove infectious
+
+#class add mental
+  > Alzheimer's
+  > amnesia
+  > autism
+  > bipolar disorder
+  > dementia
+  > depression
+  > dissociative identity disorder
+  > Down syndrome
+    | class genetic
+  > mental retardation
+  > schizophrenia
+#class remove mental
+
+> acute inclusion body encephalitis
+> albinism
+  | class genetic
+> alveolitis
+> anal sacculitis
+> anaphylaxis
+  | class inflammatory
+> appendicitis
+  | class gi
+> arsenic poisoning
+  | class poisoning
+> arthritis
+> athlete's foot
+  | class fungal
+> bronchitis
+> deep vein thrombosis
+> delirium
+> diarrhea
+  | class gi
+> epilepsy
+> fibrosis
+> folliculitis
+> gastroenteritis
+  | class gi
+> halitosis
+> hyperthyroidism
+  | class endocrine
+> hypothyroidism
+  | class endocrine
+> laryngitis
+> lead poisoning
+  | class poisoning
+> lupus
+> meningitis
+> mercury poisoning
+  | class poisoning
+> osteoporosis
+> rheumatoid arthritis
+> sacculitis
+> tetanus
+> tonsilitis
+> type I diabetes
+  | class autoimmune diabetes
+> type II diabetes
+  | class diabetes

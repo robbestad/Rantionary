@@ -1,0 +1,56 @@
+#name sound
+#subs singular s
+#hidden nsfw
+
+>> bang/s
+  | pron b"{N/b"{Nz
+>> beep/s
+  | pron b"ip/b"ips
+>> boom/s
+  | pron b"um/b"umz
+>> clang/s
+>> crack/s
+  | pron kr"{k/kr"{ks
+>> crash/es
+  | pron kr"{S/kr"{-SIz
+>> flap/s
+  | pron fl"{p/fl"{ps
+>> flutter/s
+  | pron fl"V-t3`/fl"V-t3`z
+>> foom/s
+>> note/s
+  | pron n"oUt/n"oUts
+>> pop/s
+  | pron p"Ap/p"Aps
+>> pound/s
+  | pron p"aUnd/p"aUnz
+>> rap/s
+  | pron r"{p/r"{ps
+>> roar/s
+  | pron r"Orr/r"Orrz
+>> rumble/s
+  | pron r"Vm-bVl/r"Vm-bVlz
+>> scrape/s
+  | pron skr"eIp/skr"eIps
+>> screech/es
+  | pron skr"itS/skr"i-tSIz
+>> shatter/s
+  | pron S"{-t3`/S"{-t3`z
+>> shudder/s
+  | pron S"V-d3`/S"V-d3`z
+>> slap/s
+  | pron sl"{p/sl"{ps
+>> squeal/s
+  | pron skw"il/skw"ilz
+>> squelch/es
+>> swoosh/es
+>> tap/s
+  | pron t"{p/t"{ps
+>> thump/s
+  | pron T"Vmp/T"Vmps
+>> tick/s
+  | pron t"Ik/t"Iks
+>> toot/s
+  | pron t"ut/t"Uts
+>> wail/s
+  | pron w"eIl/w"eIlz

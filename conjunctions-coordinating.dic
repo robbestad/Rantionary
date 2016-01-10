@@ -1,6 +1,6 @@
-#version 2
 #name conj
 #subs default
+#hidden nsfw
 
 > and
   | pron Vnd

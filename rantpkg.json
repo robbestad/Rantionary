@@ -1,0 +1,9 @@
+{
+  "title": "Rantionary",
+  "id": "Rantionary",
+  "version": "2.0.0",
+  "tags": ["rantionary", "official", "dictionary"],
+  "authors": ["Nicholas Fleck"],
+  "description": "Rant's official dictionary.",
+  "out": "build"
+}

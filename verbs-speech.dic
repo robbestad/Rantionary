@@ -1,0 +1,57 @@
+#name say
+#subs simple ing ed s er pp noun
+#hidden nsfw
+
+#class add loud
+  >> bawl/ing/ed/s/er/ed/ing
+  >> cackle/-ing/d/s/r/d/-ing
+  >> cry/ing/-ied/-ies/er/-ied/ing
+    | pron kr"aI/kr"aI-IN/kr"aId/kr"aIz/kr"aI-3`/kr"aId/kr"aI-IN
+  >> hoot/ing/ed/s/er/ed/ing
+  >> roar/ing/ed/s/er/ed/ing
+  >> scream/ing/ed/s/er/ed/ing
+    | pron skr"im/skr"i-mIN/skr"imd/skr"imz/skr"i-m3`/skr"imd/skr"i-mIN
+  >> shout/ing/ed/s/er/ed/ing
+  >> shriek/ing/ed/s/er/ed/ing
+  >> snap/ping/ped/s/per/ped/ping
+    | pron sn"{p/sn"{-pIN/sn"{pt/sn"{ps/sn"{-p3`/sn"{pt/sn"{-pIN
+  >> squeal/ing/ed/s/er/ed/ing
+  >> wail/ing/ed/s/er/ed/ing
+  >> yell/ing/ed/s/er/ed/ing
+#class remove loud
+
+#class add quiet
+  >> breathe/-ing/d/s/r/d/-ing
+    | pron br"iD/br"i-DIN/br"iDd/br"iDz/br"i-D3`/br"iDd/br"i-DIN
+  >> croak/ing/ed/s/er/ed/ing
+  >> hiss/ing/ed/es/er/ed/ing
+  >> mumble/-ing/d/s/r/d/-ing
+  >> mutter/ing/ed/s/er/ed/ing
+  >> whimper/ing/ed/s/er/ed/ing
+  >> whisper/ing/ed/s/er/ed/ing
+#class remove quiet
+
+>> announce/-ing/d/s/r/d/-ing
+  | pron V-n"aUns/V-n"aUn-sIN/V-n"aUnst/V-n"aUn-sIz/V-n"aUn-s3`/V-n"aUnst/V-n"aUn-sIN
+>> beep/ing/ed/s/er/ed/ing
+>> burp/ing/ed/s/er/ed/ing
+>> call/ing/ed/s/er/ed/ing
+  | pron k"Ol/k"O-lIN/k"Old/k"Olz/k"O-l3`/k"Old/k"O-lIN
+>> declare/-ing/d/s/r/d/-ation
+>> ejaculate/-ing/d/s/-or/d/-ion
+>> exclaim/ing/ed/s/er/ed/--mation
+>> grunt/ing/ed/s/er/ed/ing
+>> laugh/ing/ed/s/er/ed/ter
+  | pron l"{f/l"{-fIN/l"{ft/l"{fs/l"A-k3`/l"{ft/l"{f-t3`
+>> moan/ing/ed/s/er/ed/ing
+>> say/ing/-id/s/er/-id/ing
+  | pron s"eI/s"eI-IN/s"Ed/s"Iz/s"eI-3`/s"Ed/s"eI-IN
+>> screech/ing/ed/es/er/ed/ing
+>> shoot/ing/--t/s/er/--t/ing
+  | pron S"ut/S"u-tIN/S"At/S"uts/S"u-t3`/S"At/S"u-tIN
+>> snicker/ing/ed/s/er/ed/ing
+>> snort/ing/ed/s/er/ed/ing
+>> spit/ting/--at/s/ter/--at/ting
+>> squelch/ing/ed/es/er/ed/ing
+>> swear/ing/---ore/s/er/---orn/ing
+>> whine/-ing/d/s/r/d/-ing

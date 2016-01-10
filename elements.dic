@@ -1,0 +1,162 @@
+#name element
+#subs name symbol
+#hidden nsfw
+
+#class add metal
+  #class add alkali
+    > cesium/Cs
+    > francium/Fr
+      | class radioactive
+    > lithium/Li
+    > potassium/K
+    > rubidium/Rb
+    > sodium/Na
+  #class remove alkali
+
+  #class add alkaline_earth
+    #class add earth
+      > barium/Ba
+      > beryllium/Be
+      > calcium/Ca
+      > magnesium/Mg
+      > radium/Ra
+        | class radioactive
+      > strontium/Sr
+    #class remove earth
+
+  #class remove alkaline_earth
+
+  #class add lanthanoid
+    > cerium/Ce
+    > dysprosium/Dy
+    > erbium/Er
+    > europium/Eu
+    > gadolinium/Gd
+    > holmium/Ho
+    > lanthanum/La
+    > lutetium/Lu
+    > neodymium/Nd
+    > praseodymium/Pr
+    > promethium/Pm
+    > samarium/Sm
+    > terbium/Tb
+    > thulium/Tm
+    > ytterbium/Yb
+  #class remove lanthanoid
+
+  #class add post_transition
+    > aluminum/Al
+    > bismusth/Bi
+    > gallium/Ga
+    > indium/In
+    > lead/Pb
+    > thallium/Tl
+    > tin/Sn
+  #class remove post_transition
+
+  #class add radioactive
+    #class add actinoid
+      > actinium/Ac
+      > americium/Am
+      > berkelium/Bk
+      > californium/Cf
+      > curium/Cm
+      > einsteinium/Es
+      > fermium/Fm
+      > lawrencium/Lr
+      > mendelevium/Md
+      > neptunium/Np
+      > nobelium/No
+      > plutonium/Pu
+      > protactinium/Pa
+      > thorium/Th
+      > uranium/U
+    #class remove actinoid
+
+  #class remove radioactive
+
+  #class add transition
+    > cadmium/Cd
+    > chromium/Cr
+    > cobalt/Co
+    > copper/Cu
+    > gold/Au
+    > hafnium/Hf
+    > iridium/Ir
+    > iron/Fe
+    > manganese/Mn
+    > mercury/Hg
+      | class liquid
+    > molybdenum/Mo
+    > nickel/Ni
+    > niobium/Nb
+    > osmium/Os
+    > palladium/Pd
+    > platinum/Pt
+    > rhenium/Re
+    > rhodium/Rh
+    > ruthenium/Ru
+    > scandium/Sc
+    > silver/Ag
+    > tantalum/Ta
+    > technetium/Tc
+    > titanium/Ti
+    > tungsten/W
+    > vanadium/V
+    > yttrium/Y
+    > zinc/Zn
+    > zircomium/Zr
+  #class remove transition
+
+#class remove metal
+
+#class add metalloid
+  > antimony/Sb
+  > arsenic/As
+  > boron/B
+  > germanium/Ge
+  > polonium/Po
+    | class radioactive
+  > silicon/Si
+  > tellurium/Te
+#class remove metalloid
+
+#class add nonmetal
+  #class add gas
+    #class add diatomic
+      > chlorine/Cl
+        | class halogen
+      > fluorine/F
+        | class halogen
+      > hydrogen/H
+      > nitrogen/N
+      > oxygen/O
+    #class remove diatomic
+
+    #class add noble_gas
+      > argon/Ar
+      > helium/He
+      > krypton/Kr
+      > neon/Ne
+      > radon/Rn
+        | class radioactive
+      > xenon/Xe
+    #class remove noble_gas
+
+  #class remove gas
+
+  #class add polyatomic
+    > carbon/C
+    > phosphorus/P
+    > selenium/Se
+    > sulfur/S
+  #class remove polyatomic
+
+  > astatine/At
+    | class diatomic halogen radioactive
+  > bromine/Br
+    | class diatomic halogen liquid
+  > iodine/I
+    | class diatomic halogen
+#class remove nonmetal
+
