@@ -1,6 +1,6 @@
+#version 2
 #name prefix
 #subs default
-#hidden nsfw
 
 #class add position
   > endo

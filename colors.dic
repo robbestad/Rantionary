@@ -1,39 +1,38 @@
+#version 2
 #name color
 #subs default ish
 
-#type kind "primary secondary" ""
-
->> black/ish
->> blue/-ish
+> black/blackish
+> blue/bluish
   | pron bl"u/bl"u-IS
-  | kind primary
->> brown/ish
+  | class primary
+> brown/brownish
   | pron br"aUn/br"aU-nIS
->> crimson/ish
->> cyan/-ish
+> crimson/crimsonish
+> cyan/cyan-ish
   | class secondary
->> gold/ish
->> green/ish
+> gold/goldish
+> green/greenish
   | pron gr"in/gr"i-nIS
-  | kind primary
->> grey/ish
->> lavender/ish
->> lime green/-------green-ish
->> magenta/-ish
-  | kind secondary
->> maroon/ish
->> orange/-ish
->> pink/ish
+  | class primary
+> grey/greyish
+> lavender/lavenderish
+> lime green/lime-green-ish
+> magenta/magenta-ish
+  | class secondary
+> maroon/maroonish
+> orange/orangish
+> pink/pinkish
   | pron p"INk/p"IN-kIS
->> purple/-ish
+> purple/purplish
   | pron p"3`-pVl/p"3`-plIS
->> red/dish
+> red/reddish
   | pron r"Ed/r"E-dIS
-  | kind primary
->> silver/ish
->> turquoise/-ish
->> white/-ish
+  | class primary
+> silver/silverish
+> turquoise/turquoise-ish
+> white/whitish
   | pron hw"aIt/hw"aI-tIS
->> yellow/ish
+> yellow/yellowish
   | pron j"E-loU/j"E-loU-IS
-  | kind secondary
+  | class secondary

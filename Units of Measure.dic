@@ -1,9 +1,9 @@
+#version 2
 #name unit
-#subs singular s abbr
-#hidden nsfw
+#subs singular plural abbr
 
-#class add factor
-  #class add energy
+#class add energy
+  #class add factor
     #class add large
       > kilojoule/kilojoules/kJ
       > kilovolt/kilovolts/kV
@@ -25,9 +25,10 @@
         | class power
     #class remove small
 
-  #class remove energy
+  #class remove factor
 
-#class remove factor
+  > joule/joules/J
+#class remove energy
 
 #class add length
   > centimeter/centimeters/cm
@@ -78,10 +79,3 @@
     | pron t"Vn/t"Vnz/t"i
 #class remove weight
 
-> joule/joules/J
-  | class energy
-
-> mouthful/mouthfuls/mfl
-  | class volume rough
-> handful/handfuls/hfl
-  | class volume rough

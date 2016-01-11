@@ -1,6 +1,6 @@
+#version 2
 #name x
 #subs default
-#hidden nsfw
 
 > ahhhhh mahh gahh
 > alas
@@ -55,7 +55,6 @@
   | pron g"A-nV f"eInt
 > jolly good
   | pron dZ"A-li gId
-> just what the doctor ordered
 > K.O.
 > LOL
 > mine eyes are deceiving me
@@ -68,7 +67,6 @@
   | pron m"aI "oU m"aI
 > no way
   | pron n"oU w"eI
-> noice
 > oh boy
   | pron "oU b"OI
 > oh dear
@@ -94,7 +92,6 @@
 > ROFL
 > run for your lives
   | pron r"Vn fr3` j"Urr l"aIvz
-> thanks, Obama
 > this can't be
   | pron DIs k"{nt bi
 > this is delicious

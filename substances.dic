@@ -1,20 +1,8 @@
+#version 2
 #name substance
 #subs default
-#hidden nsfw
 
 #class add liquid
-  #class add nsfw
-    > crotch juice
-    > cum
-    > diarrhea
-    > jizz
-    > lube
-    > pee
-    > piss
-    > pisswater
-    > urine
-  #class remove nsfw
-
   > acid
     | pron "{-sVd
   > beer
@@ -45,8 +33,6 @@
     | pron m"eI-V-n%eIz
   > molten iron
     | pron m"oUl-tVn "aI-3`n
-  > mud
-    | pron m"Vd
   > mustard
     | pron m"V-st3`d
   > oil
@@ -82,17 +68,12 @@
 #class remove liquid
 
 > antimatter
-  | pron "{n-tI-m{-t3`
 > corn
   | pron k"Orrn
 > dark matter
   | pron d"Arrk m"{-t3`
-> dick cheese
-  | class nsfw
 > flour
   | pron fl"^rr
-> hamburger
-> happiness
 > oatmeal
   | pron "oUt-m%il
 > sand
